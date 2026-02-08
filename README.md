@@ -1,6 +1,8 @@
 # AI-Based Predictive Hospital Resource & Emergency Load Intelligence System
 
+
 Run locally (Windows PowerShell):
+
 
 ```powershell
 python -m venv .venv
@@ -8,6 +10,7 @@ python -m venv .venv
 pip install -r requirements.txt
 python app.py
 ```
+
 
 Open <http://127.0.0.1:5000/> to view the dashboard.
 
